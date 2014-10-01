@@ -1,21 +1,16 @@
-#children
-nursery
+#Classes
+Nursery
 
 
 
-reception
+Reception
 
 
-year 1
+Year 1/2
 
+Year 3
 
-year 2
+Year 4/5
 
-
-year 3
-
-
-year 4&5
-
-year 5&6
+Year 5/6
 
